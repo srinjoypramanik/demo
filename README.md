@@ -20,3 +20,12 @@
 ## A Unified Platform for Books and Educational Resources
 
 BookVerse is a Flutter-based e-commerce application for buying physical books and educational resources online. It provides a simple platform to find books, check availability and prices, place orders, and manage purchases.
+
+
+
+
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/srinjoypramanik/BOOKVERSE)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/srinjoypramanik/BOOKVERSE)
+![GitHub Stars](https://img.shields.io/github/stars/srinjoypramanik/BOOKVERSE)
+![GitHub Forks](https://img.shields.io/github/forks/srinjoypramanik/BOOKVERSE)
